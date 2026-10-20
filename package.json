@@ -1,0 +1,11 @@
+{
+  "name": "sklearn-classroom-lab",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "中文 scikit-learn 浏览器交互练习课堂",
+  "scripts": {
+    "test": "node tests/check.mjs",
+    "start": "python -m http.server 4173 --bind 127.0.0.1"
+  }
+}

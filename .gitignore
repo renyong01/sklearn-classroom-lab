@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+tests/lessons.generated.json
+.DS_Store
+Thumbs.db
+.env
+node_modules/
